@@ -13,22 +13,19 @@ This thesis proposes the system architecture of automated Parking ticket monitor
 ## Software Archicheture Design
 
 <p align="center">
-  <img src="SW2.png" width="200" height="200"/>
+  <img src="SW2.png" width="400" height="400"/>
 </p>
 
 <p align="center">
-  <img src="SW3.png" width="200" height="200"/>
+  <img src="SW3.png" width="400" height="400"/>
 </p>
 
 <p align="center">
-  <img src="SW4.png" width="200" height="200"/>
+  <img src="SW4.png" width="400" height="400"/>
 </p>
 
 ## Hardware Architecture Design
 
-<p align="center">
-  <img src="hardware.png" width="200" height="200" />
-</p>
 <p align="center">
   <img src="hardware2.png" />
 </p>
@@ -37,6 +34,9 @@ This thesis proposes the system architecture of automated Parking ticket monitor
 
 - **System Evaluation.**
 <div align=center>Figure: Experiments.</div>
+<p align="center">
+  <img src="hardware.png" width="200" height="200" />
+</p>
 <p align="center">
   <img src="system2.png" title="System Evaluation" />
 </p>
