@@ -30,7 +30,7 @@ This thesis proposes the system architecture of automated Parking ticket monitor
   <img src="hardware.png" width="200" height="200" />
 </p>
 <p align="center">
-  <img src="hardware2.png" width="200" height="200" />
+  <img src="hardware2.png" />
 </p>
 
 ## Results
