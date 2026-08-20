@@ -1,5 +1,0 @@
-[DEFAULT]
-ten = LONG
-tuoi = 1996
-truong = BKhoa
-key = 1412103
