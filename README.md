@@ -6,7 +6,7 @@
 <p align="justify"> 
 The core of the system relies on RSA asymmetric encryption for robust security, chosen for its strong cryptographic properties, where breaking it with 1024-bit keys is computationally infeasible. This encryption is applied to implement electronic signatures. QR Codes are utilized for transmitting compressed electronic signatures and other information between the user's smartphone and the system, favored over barcodes due to their higher data capacity and superior error tolerance
 
-The system's main components include
+The system's main components include:
 
 +A Raspberry Pi 3 embedded computer as the authentication unit, equipped with a camera to scan QR codes, control relays for gate access, and display information on an LCD screen.
 
